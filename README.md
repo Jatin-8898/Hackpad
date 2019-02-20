@@ -13,7 +13,7 @@ A simple chrome extension which is similar to sticky notes.
 git clone https://github.com/Jatin-8898/chrome-hackpad.git
 ```
 
-## 🚩 View the Plugin Live [Here](https://chrome.google.com/webstore/detail/hack-pad/ahhhnbaeakjgbfmgbjknbmlckapjnccp)
+### 🚩 View the Plugin Live [Here](https://chrome.google.com/webstore/detail/hack-pad/ahhhnbaeakjgbfmgbjknbmlckapjnccp)
 
 ## Contribute
 To contribute see the contributing.md 
