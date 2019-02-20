@@ -1,4 +1,4 @@
-#  🔷 Chrome Hackpad
+##  🔷 Chrome Hackpad
 A simple chrome extension 
 
 ### Version
@@ -11,4 +11,4 @@ A simple chrome extension
 git clone https://github.com/Jatin-8898/chrome-hackpad.git
 ```
 
-## 🔑 View the Plugin Live [Here](https://chrome.google.com/webstore/detail/hack-pad/ahhhnbaeakjgbfmgbjknbmlckapjnccp)
+## 🚩 View the Plugin Live [Here](https://chrome.google.com/webstore/detail/hack-pad/ahhhnbaeakjgbfmgbjknbmlckapjnccp)
