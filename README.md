@@ -16,4 +16,5 @@ git clone https://github.com/Jatin-8898/chrome-hackpad.git
 ### 🚩 View the Plugin Live [Here](https://chrome.google.com/webstore/detail/hack-pad/ahhhnbaeakjgbfmgbjknbmlckapjnccp)
 
 ## Contribute
+If your a developer you can contribute to this project. 
 To contribute see the contributing.md 
