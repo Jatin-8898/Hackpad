@@ -10,8 +10,10 @@ A simple chrome extension which is similar to sticky notes.
 
 ### Clone this Repo
 ```
-git clone https://github.com/Jatin-8898/chrome-hackpad.git
+git clone https://github.com/Jatin-8898/Hackpad.git
 ```
+
+
 
 ### 🚩 View the Plugin Live [Here](https://chrome.google.com/webstore/detail/hack-pad/ahhhnbaeakjgbfmgbjknbmlckapjnccp)
 
