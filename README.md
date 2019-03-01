@@ -1,4 +1,4 @@
-##  Chrome Hackpad
+##  Hackpad Chrome Extension
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ahhhnbaeakjgbfmgbjknbmlckapjnccp.svg)
 ![License MIT](https://img.shields.io/github/license/Jatin-8898/Hackpad.svg?color=blue)
 
@@ -9,18 +9,17 @@ A simple chrome extension which is similar to sticky notes.
 ### Version
 1.0.0
 
-## 📝 Usage
+## ScreenShot
+![screenshot](./images/Screenshot.png)
 
-### Clone this Repo
-```
-git clone https://github.com/Jatin-8898/Hackpad.git
-```
+## 🚩 Download in Chrome Web Store:
 
-Download in Chrome Web Store:
 [![Chrome Web Store](./images/ChromeWebStore.png)](https://chrome.google.com/webstore/detail/hack-pad/ahhhnbaeakjgbfmgbjknbmlckapjnccp)
 
+## License
 
-### 🚩 View the Plugin Live [Here](https://chrome.google.com/webstore/detail/hack-pad/ahhhnbaeakjgbfmgbjknbmlckapjnccp)
+MIT
+
 
 ## Contribute
 If your a developer you can contribute to this project. 
