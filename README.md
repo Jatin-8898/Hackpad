@@ -22,5 +22,6 @@ MIT
 
 
 ## Contribute
-If your a developer you can contribute to this project. 
-To contribute see the contributing.md 
+* If your a developer you can *contribute to this project*. To contribute see the contributing.md 
+* If you have any questions or ideas about this chrome extension feel free to reach out to me [Here](https://linkedin.com/in/jatin-varlyani-127290150/).
+* If you like this repo and find it useful, please consider **★** starring it (on top right of the page) and forking it :)
