@@ -1,4 +1,4 @@
-##  Hackpad Chrome Extension
+##  Hackpad Chrome Extension 📜
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ahhhnbaeakjgbfmgbjknbmlckapjnccp.svg)
 ![License MIT](https://img.shields.io/github/license/Jatin-8898/Hackpad.svg?color=blue)
 
